@@ -48,7 +48,7 @@ Prepare for industry practices where AI-assisted development is becoming standar
 | `factorial_recursive.py` | Recursive factorial function.                                   |
 | `mines.py`               | Game used to practice debugging.                                |
 | `print_arguments.py`     | Demonstrates command-line arguments handling.                   |
-| `tic.py`                 | Likely a tic-tac-toe (AI-influenced or classic) implementation. |
+| `tic.py`                 | Tic-tac-toe implementation.                                     |
 
 ---
 
